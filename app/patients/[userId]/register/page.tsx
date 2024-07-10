@@ -30,7 +30,7 @@ export default async function Register({
         height={1000}
         width={1000}
         alt="patient"
-        className="side-img max-w-[30%]"
+        className="side-img max-w-[390px]"
       />
     </div>
   );
